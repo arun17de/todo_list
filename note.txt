@@ -1,0 +1,26 @@
+react+vue
+
+npm create vite@latest
+project name: ----
+select react and select js also
+go to file cd filename
+npm install
+npm run dev
+
+
+
+clear command pompt: cls
+
+
+running process:
+
+1) backend
+
+cd basic1/server(filename)
+node server.js
+
+
+2) frontend
+
+cd basic1/vite-project
+npm run dev
